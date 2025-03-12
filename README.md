@@ -40,6 +40,8 @@ This project deploys the "2048 game" using "Docker" and "AWS EC2".
 🔗 Open in Browser:
 http://your-ec2-public-ip
 (Replace with your actual EC2 Public IP.)
+## 🎮 Live Game Preview
+![2048 Game]()
 
 📌 Future Improvements
 ✅ Add SSL with Let's Encrypt
